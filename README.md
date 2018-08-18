@@ -1,2 +1,2 @@
 # vue-test
-a vue-demo
+a vue-demo 'hello world'
